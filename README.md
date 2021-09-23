@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @novaesiana
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning neural networks
+- 🌱 I’m currently learning about neural networks
 - 💞️ I’m looking to collaborate on data science & data analytics projects
 - 📫 How to reach me DM
 
